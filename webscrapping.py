@@ -4,7 +4,8 @@ Criado por: Ilton Batista
 
 Data de inicio: 31/10/2023
 
-Proposito: Desenvolver habilidades de raciocinio e experiencia com novas bibliotecas de analise de dados e dashboard
+Proposito: Desenvolver habilidades de raciocinio e experiencia com novas 
+bibliotecas de python para web scraping e manipulação de dados.
 '''
 
 # Importar as bibliotecas
